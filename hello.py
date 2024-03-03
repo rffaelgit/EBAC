@@ -1,0 +1,1 @@
+print('Hello Git! Obrigado por visitar esse reposítório, deixe uma mensagem.')
